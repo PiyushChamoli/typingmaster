@@ -1,6 +1,6 @@
 # TypingMaster
 
-Test your typing speed by smashing keys
+Test your typing speed wihtin 60 seconds!
 
 ## Getting Started
 
@@ -19,25 +19,25 @@ git clone https://github.com/PiyushChamoli/typingmaster.git
 Change directory into it
 
 ```
-cd smashkeys
+cd typingmaster
 ```
 
 Install dependencies
 
 ```
-yarn install
+npm install
 ```
 
 Start development server
 
 ```
-yarn start
+npm start
 ```
 
 Build static files
 
 ```
-yarn build
+npm build
 ```
 
 ## Built With
