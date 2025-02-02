@@ -13,7 +13,7 @@ A step by step series of examples that tell you how to get a development env run
 Clone the repository
 
 ```
-git clone
+git clone https://github.com/PiyushChamoli/typingmaster.git
 ```
 
 Change directory into it
@@ -47,6 +47,10 @@ yarn build
 * [TailwindCSS](https://tailwindcss.com/) -
   A utility-first CSS framework for
   rapid development
+
+## For Node.js version 17 and above
+
+Use command export NODE_OPTIONS=--openssl-legacy-provider
 
 ## Contributing
 
